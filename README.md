@@ -24,8 +24,6 @@ The **Pomodoro App** is a productivity tool that implements the Pomodoro Techniq
 
 > **Live Demo:**  
 > _To run locally, open `index.html` in your browser._
-
-[Pomodoro App Screenshot](https://ibb.co/yFGpkSf2)  
 *Sample UI: Circular timer, controls, and Pomodoro definition box.*
 
 ---
@@ -66,7 +64,7 @@ Pomodoro_app/
 
 > _Add your own screenshots in the `assets/` folder and update the path below._
 
-![App Main Screen](./https://ibb.co/yFGpkSf2)
+[App Main Screen](https://ibb.co/yFGpkSf2)
 
 ---
 
