@@ -60,22 +60,13 @@ Pomodoro_app/
 - **Change Sounds:**  
   Replace `sounds/bell.wav` with your own notification sound.
 
-### Code Highlights
-
-- **index.html**:  
-  Contains the app structure, timer display, and control buttons.
-- **style.css**:  
-  Handles layout, colors, fonts, and the circular timer visualization.
-- **app.js**:  
-  Implements timer logic, button controls, and sound notifications.
-
 ---
 
 ## Snapshots
 
 > _Add your own screenshots in the `assets/` folder and update the path below._
 
-![App Main Screen](./assets/snapshot.png)
+![App Main Screen](./https://ibb.co/yFGpkSf2)
 
 ---
 
@@ -92,9 +83,9 @@ Pomodoro_app/
 ## License
 
 ```
-MIT License
+License
 
-Copyright (c) 2024
+Copyright (c) 2024 Ishan A
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -117,4 +108,4 @@ SOFTWARE.
 
 ---
 
-**Created by Ishan Arya.**
+**Created by Ishan**
