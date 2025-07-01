@@ -107,6 +107,6 @@ SOFTWARE.
 ```
 ***KIndly note the above documentation was created using the assistance of OpenAI***
 
-acknowledgement: [Codedex](codedex.io)
+acknowledgement: [Codedex](https://www.codedex.io/)
 
 
