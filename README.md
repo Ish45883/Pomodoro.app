@@ -1,4 +1,4 @@
-# Pomodoro App
+# Pomodoro App by Ishan A
 
 A simple, visually appealing Pomodoro timer web application to help you manage your focus sessions using the Pomodoro Technique.
 
@@ -106,5 +106,7 @@ SOFTWARE.
 
 ```
 ***KIndly note the above documentation was created using the assistance of OpenAI***
+
+acknowledgement: [Codedex](codedex.io)
 
 
